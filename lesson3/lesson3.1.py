@@ -1,5 +1,5 @@
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
 sym = input("Enter symbol: ")
 if sym == "+":
     print("Result: ", a + b)
