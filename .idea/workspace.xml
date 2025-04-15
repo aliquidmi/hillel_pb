@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="Sixth commit">
+    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="Seventh commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/lesson5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/lesson5.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,30 +42,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab4Mironova.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ABC/3 курс 2 семестр/МСШІ/LabInPython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab4Mironova.executor": "Run",
+    "Python.lesson1 (1).executor": "Run",
+    "Python.lesson1.executor": "Run",
+    "Python.lesson2.1.executor": "Run",
+    "Python.lesson2.2.executor": "Run",
+    "Python.lesson3.1.executor": "Run",
+    "Python.lesson3.2.executor": "Run",
+    "Python.lesson3.3.executor": "Run",
+    "Python.lesson4.1.executor": "Run",
+    "Python.lesson4.2.executor": "Run",
+    "Python.lesson4.3.executor": "Run",
+    "Python.lesson5.1.executor": "Run",
+    "Python.lesson5.2.executor": "Run",
+    "Python.lesson5.3.executor": "Run",
+    "Python.lesson6.1.executor": "Run",
+    "Python.lesson6.2.executor": "Run",
+    "Python.lesson6.3.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/ABC/hillel_pb",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="lesson1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hillel_pb" />
@@ -300,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744401194705</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Seventh commit">
+      <option name="closed" value="true" />
+      <created>1744741022629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744741022629</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,6 +318,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="Fourth commit" />
     <MESSAGE value="Fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
+    <MESSAGE value="Seventh commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seventh commit" />
   </component>
 </project>
