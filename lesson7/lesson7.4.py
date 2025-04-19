@@ -1,4 +1,4 @@
-def common_elements():
+def common_elements() -> set:
     first = list(range(0, 101, 3))
     second = list(range(0, 101, 5))
     set1 = set(first)
