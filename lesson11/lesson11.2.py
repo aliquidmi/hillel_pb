@@ -1,4 +1,5 @@
-def generate_cube_numbers(end):
+def generate_cube_numbers(end: int) -> 'generator':
+    """Генерує всі числа, які є кубами цілих чисел, не перевищуючи end"""
     n = 2
     while True:
         cube = n ** 3

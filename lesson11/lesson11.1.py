@@ -1,5 +1,7 @@
-def prime_generator(end):
-    def is_prime(n):
+def prime_generator(end: int)-> 'generator':
+    """Генерує прості числа від 2 до заданого значення end включно"""
+    def is_prime(n: int) -> bool:
+        """Перевіряє, чи є число n простим"""
         if n < 2:
             return False
         for i in range(2, int(n ** 0.5) + 1):

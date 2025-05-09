@@ -1,8 +1,10 @@
-def pow(x):
+def pow(x: int) -> int:
     return x ** 2
 
-def some_gen(begin, end, func):
+def some_gen(begin: int, end: int, func: 'function') -> 'generator':
     """
+    Генерує послідовність значень, де кожне наступне утворюється застосуванням функції до попереднього
+
      begin: перший елемент послідовності
      end: кількість елементів у послідовності
      func: функція, яка формує значення для послідовності
