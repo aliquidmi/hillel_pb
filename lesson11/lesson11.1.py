@@ -1,4 +1,6 @@
-def prime_generator(end: int)-> 'generator':
+from typing import Generator
+
+def prime_generator(end: int)-> Generator[int, None, None]:
     """Генерує прості числа від 2 до заданого значення end включно"""
     def is_prime(n: int) -> bool:
         """Перевіряє, чи є число n простим"""

@@ -1,4 +1,6 @@
-def generate_cube_numbers(end: int) -> 'generator':
+from typing import Generator
+
+def generate_cube_numbers(end: int) -> Generator[int, None, None]:
     """Генерує всі числа, які є кубами цілих чисел, не перевищуючи end"""
     n = 2
     while True:

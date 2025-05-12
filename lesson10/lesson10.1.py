@@ -1,7 +1,9 @@
+from typing import Callable, Generator
+
 def pow(x: int) -> int:
     return x ** 2
 
-def some_gen(begin: int, end: int, func: 'function') -> 'generator':
+def some_gen(begin: int, end: int, func: Callable[[int], int]) -> Generator[int, None, None]:
     """
     Генерує послідовність значень, де кожне наступне утворюється застосуванням функції до попереднього
 
