@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="L10-11 second commit">
+    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="L12 first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,8 @@
     "Python.lesson11.3.executor": "Run",
     "Python.lesson12.1.executor": "Run",
     "Python.lesson12.2.executor": "Run",
+    "Python.lesson13.1.executor": "Run",
+    "Python.lesson13.2.executor": "Run",
     "Python.lesson2.1.executor": "Run",
     "Python.lesson2.2.executor": "Run",
     "Python.lesson3.1.executor": "Run",
@@ -410,7 +412,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747069275415</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="L12 first commit">
+      <option name="closed" value="true" />
+      <created>1747582726444</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582726444</updated>
+    </task>
+    <task id="LOCAL-00024" summary="L12 first commit">
+      <option name="closed" value="true" />
+      <created>1747582735292</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582735292</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -425,6 +443,7 @@
     <MESSAGE value="L9 first commit" />
     <MESSAGE value="L10-11 first commit" />
     <MESSAGE value="L10-11 second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="L10-11 second commit" />
+    <MESSAGE value="L12 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="L12 first commit" />
   </component>
 </project>
