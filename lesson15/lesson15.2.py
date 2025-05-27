@@ -20,7 +20,7 @@ class Fraction:
         new_b = self.b * other.b
         return Fraction(new_a, new_b)
 
-    def __eq__(self, other: object) -> bool:
+    def __eq__(self, other: Fraction) -> bool:
         if not isinstance(other, Fraction):
             return NotImplemented
         return self.a * other.b == other.a * self.b
@@ -31,7 +31,7 @@ class Fraction:
     def __lt__(self, other: Fraction) -> bool:
         return self.a * other.b < other.a * self.b
 
-    def __ne__(self, other: object) -> bool:
+    def __ne__(self, other: Fraction) -> bool:
         eq_result = self.__eq__(other)
         if eq_result is NotImplemented:
             return NotImplemented

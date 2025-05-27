@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="L13 first commit">
+    <list default="true" id="c2ecfb59-287c-4eb3-a59e-0d91ab6f786d" name="Changes" comment="L12-15 first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson12/lesson12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/lesson12.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson13/lesson13.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson13/lesson13.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson13/lesson13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson13/lesson13.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,54 +42,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab4Mironova.executor": "Run",
-    "Python.lesson1 (1).executor": "Run",
-    "Python.lesson1.executor": "Run",
-    "Python.lesson10.1.executor": "Run",
-    "Python.lesson10.2.executor": "Run",
-    "Python.lesson10.3.executor": "Run",
-    "Python.lesson11.1.executor": "Run",
-    "Python.lesson11.2.executor": "Run",
-    "Python.lesson11.3.executor": "Run",
-    "Python.lesson12.1.executor": "Run",
-    "Python.lesson12.2.executor": "Run",
-    "Python.lesson13.1.executor": "Run",
-    "Python.lesson13.2.executor": "Run",
-    "Python.lesson14.1.executor": "Run",
-    "Python.lesson15.1.executor": "Run",
-    "Python.lesson2.1.executor": "Run",
-    "Python.lesson2.2.executor": "Run",
-    "Python.lesson3.1.executor": "Run",
-    "Python.lesson3.2.executor": "Run",
-    "Python.lesson3.3.executor": "Run",
-    "Python.lesson4.1.executor": "Run",
-    "Python.lesson4.2.executor": "Run",
-    "Python.lesson4.3.executor": "Run",
-    "Python.lesson5.1.executor": "Run",
-    "Python.lesson5.2.executor": "Run",
-    "Python.lesson5.3.executor": "Run",
-    "Python.lesson6.1.executor": "Run",
-    "Python.lesson6.2.executor": "Run",
-    "Python.lesson6.3.executor": "Run",
-    "Python.lesson7.1.executor": "Run",
-    "Python.lesson7.2.executor": "Run",
-    "Python.lesson7.3.executor": "Run",
-    "Python.lesson7.4.executor": "Run",
-    "Python.lesson8.1.executor": "Run",
-    "Python.lesson8.2.executor": "Run",
-    "Python.lesson8.3.executor": "Run",
-    "Python.lesson9.1.executor": "Run",
-    "Python.lesson9.2.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/ABC/hillel_pb",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab4Mironova.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson11.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson12.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson12.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson13.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson13.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson14.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson15.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson15.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson7.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson7.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson8.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson9.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson9.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ABC/hillel_pb&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ABC\hillel_pb\lesson12" />
@@ -441,7 +439,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747583424420</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="L12-15 first commit">
+      <option name="closed" value="true" />
+      <created>1748294591707</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1748294591707</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -458,6 +464,7 @@
     <MESSAGE value="L10-11 second commit" />
     <MESSAGE value="L12 first commit" />
     <MESSAGE value="L13 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="L13 first commit" />
+    <MESSAGE value="L12-15 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="L12-15 first commit" />
   </component>
 </project>
